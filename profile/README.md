@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Open-Source%20Robotics%20Foundation%20Myanmar&fontSize=45&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Open-Source%20Robotics%20Foundation%20Myanmar&fontSize=40&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
 </p>
 
 <p align="center">
